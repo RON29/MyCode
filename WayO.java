@@ -1,6 +1,7 @@
 import java.util.*;
 class WayO
 {
+	//adding comments
     int outp[];
     int blk[][];
     int tra,bl;
